@@ -80,7 +80,7 @@ with st.sidebar:
     st.title("About Me")
     st.info("""Hello!!! I am A Sentiment Analyzer
              I am 97 precent accurate on tweets. 
-            If you give me the tweet I can predict the centiment i.e emotion of it
+            If you give me the tweet,I can predict the sentiment i.e emotion of it.
             I am built by:Muthyala Sreenidhi""")
              
 st.title("Sentiment Analysis on tweets")
