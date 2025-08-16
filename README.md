@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis App 
 here is the link:
-https://sreenidhi2211-tweet-sentiment-analyzer.streamlit.app/
+[https://tweetsentimentanalyzer-bysreenidhi2211.streamlit.app/](url)
 
 A **Streamlit** web app that predicts the **sentiment** (Positive, Neutral, Negative) of tweets.  
 You can **enter a single tweet** or **upload a CSV file** containing multiple tweets for batch analysis.
