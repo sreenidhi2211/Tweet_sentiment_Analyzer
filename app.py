@@ -81,7 +81,7 @@ with st.sidebar:
     st.info("""Hello!!! I am A Sentiment Analyzer
              I am 97 precent accurate on tweets. 
             If you give me the tweet I can predict the centiment i.e emotion of it
-            I am built by"👨‍💻 :Muthyala Sreenidhi""")
+            I am built by:Muthyala Sreenidhi""")
              
 st.title("Sentiment Analysis on tweets")
 st.markdown("Choose the mode to predict")
